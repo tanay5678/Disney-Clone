@@ -1,3 +1,15 @@
+# Disney+ Clone 
+
+# APP Link : <a> https://disney-e2998.web.app/ </a>
+
+# Framework & Language :
+<ul>
+  <li>HTML, CSS, JSX, ReactJs, Redux, Styled Components, Firebase</li>
+</ul>
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
